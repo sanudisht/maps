@@ -1,0 +1,15 @@
+ Game Paths - By Sanu
+
+// Mini Game Maps (3 Digit ID) \\
+ Example : C:/Program Files (x86)/<FolderName>/map/<MapIDFolder>
+  Website Example : http://147.185.221.28:58499/map/<MapIDFolder>
+  Mini Games ID : m101 to m111
+
+// Games are in their unique folders \\
+ -- Game ID should always include 'g' at the begining --
+ Example : C:/Program Files (x86)/<FolderName>/<GameIDFolder>
+ Website Example : http://147.185.221.28:58499/<GameIDFolder>
+ Game ID Example : g1008
+ Games ID : g1001 t0 g1065
+
+// End of list, will be updated soon ^.^ \\
